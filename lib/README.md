@@ -32,7 +32,7 @@ N'oublie pas de faire un Bundle Installe une fois depuis ton terminal dans le do
 Pour faire fonctionner le programme tu as le choix :
 
 - Faire ruby tic_tac_toe.rb qui va éxécuter tout le programme
-- faire un ruby game.rb qui va éxécuter la classe Game qui va appeler toutes les autres classes
+- faire ruby game.rb qui va éxécuter la classe Game qui va appeler toutes les autres classes
 
 
 Bonne partie et bonne correction
